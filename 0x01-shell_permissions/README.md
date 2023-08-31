@@ -1,3 +1,4 @@
 su changes user
 whoami
-group
+groups
+sudo chown betty hello
